@@ -1,2 +1,3 @@
-#MyApp
-this is an app that i used to learn git and all of its commands
+# MyApp 
+
+this is an app that I used to learn git and all of its commands
